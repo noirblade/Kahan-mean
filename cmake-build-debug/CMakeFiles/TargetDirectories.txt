@@ -1,3 +1,0 @@
-/home/teodor/CLionProjects/Kahan-mean/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/teodor/CLionProjects/Kahan-mean/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/teodor/CLionProjects/Kahan-mean/cmake-build-debug/CMakeFiles/ArithmeticMean.dir
